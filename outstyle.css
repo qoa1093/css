@@ -1,0 +1,16 @@
+.no1{
+    color:rgb(255, 255, 255);
+    background-color: maroon;
+}
+.m1{
+    background-color: yellow;
+}
+.bol{
+    font-size: large; font-style: unset; font-weight: bold; 
+}
+.grn{
+    color: green; font-size: small; font-weight: bold;
+}
+#no3{
+    font-weight: bold;font-style:italic; color:blue;font-size: large;
+}
